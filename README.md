@@ -1,4 +1,4 @@
-# Teste prático (work-with-data)
+# Teste prático
 
 Esta é a página sobre o teste prático para os candidatos ao processo seletivo de cientistas, analistas e engenheiros de dados.
 
